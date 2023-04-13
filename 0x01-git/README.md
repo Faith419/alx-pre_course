@@ -1,1 +1,1 @@
-entity 1
+faith print
